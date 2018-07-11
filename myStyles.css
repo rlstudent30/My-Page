@@ -1,5 +1,5 @@
 h1 {
-  color: #6A7F58;
+  color: #006098;
   font-size: 80px;
   text-align: center;
   font-family: Courier;
@@ -12,7 +12,7 @@ h2 {
 
 body {
   text-align: center;
-  background: linear-gradient(#FFD8BA, #FFBE8D, #7F6C5D);
+  background-color: #FFD1AE;
 }
 
 #panda {visibility: hidden}
